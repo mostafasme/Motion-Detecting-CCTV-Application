@@ -19,7 +19,7 @@ from_address= 'punyaslokduttaraspberrypi@gmail.com'
 to_address= 'punyaslokduttaraspberrypi@gmail.com'
 subject= 'Raspberrypi Security Camera'
 username= 'punyaslokduttaraspberrypi'
-password= 'pd25021996'
+password= '########'
 command2="rm -r images/*"
 call([command2], shell=True)
 
