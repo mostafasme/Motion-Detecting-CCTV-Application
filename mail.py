@@ -16,7 +16,7 @@ from_address= 'punyaslokduttaraspberrypi@gmail.com'
 to_address= 'punyaslokduttaraspberrypi@gmail.com'
 subject= 'Raspberrypi Security Camera'
 username= 'punyaslokduttaraspberrypi'
-password= 'pd25021996'
+password= '######'
 picName= 'ss.jpg'
 
 def send_email(picName):
